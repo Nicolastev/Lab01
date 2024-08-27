@@ -1,3 +1,3 @@
 INTEGRANTES:
-Nicolas Stev Bernal Gonzalez
-Sntiago Silva
+**Nicolas Stev Bernal Gonzalez**
+**Santiago Silva**
